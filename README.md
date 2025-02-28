@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome!, Im a software engineer student from the university of Guadalajara, currently working as a Full Stack developer Intern.
+Welcome!, Im a software engineer student from the university of Guadalajara, currently working as a Full Stack developer.
 
 
 # 💻 Tech Stack:
