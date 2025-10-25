@@ -48,14 +48,6 @@ I love exploring new technologies, improving existing systems, and solving probl
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLs15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p>
