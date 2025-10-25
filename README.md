@@ -1,6 +1,6 @@
-<h1 align="center">Aaron Lujano</h1>
+<h1>Aaron Lujano</h1>
 
-<p align="center">
+<p>
   Software Engineering Student @<b>University of Guadalajara</b><br>
   Full Stack Developer | Backend Focused | Clean Architecture Enthusiast
 </p>
@@ -51,14 +51,14 @@ I love exploring new technologies, improving existing systems, and solving probl
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLs15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://github.com/AaronLs15" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aaron-lujano-10233226b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 </p>
