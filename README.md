@@ -50,12 +50,5 @@ I love exploring new technologies, improving existing systems, and solving probl
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/aaron-lujano-10233226b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-</p>
-
 
 <!-- Crafted with precision and caffeine ☕ -->
