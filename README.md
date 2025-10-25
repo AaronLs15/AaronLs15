@@ -1,7 +1,7 @@
-<h1 > Aaron Lujano</h1>
+<h1 align="center">Aaron Lujano</h1>
 
-<p >
-  Software Engineering Student @ <b>University of Guadalajara</b><br>
+<p align="center">
+  Software Engineering Student @<b>University of Guadalajara</b><br>
   Full Stack Developer | Backend Focused | Clean Architecture Enthusiast
 </p>
 
@@ -11,10 +11,11 @@
 I'm a passionate developer who enjoys building efficient, scalable systems and clean user experiences.  
 I love exploring new technologies, improving existing systems, and solving problems through elegant code.
 
-- 🧠 Currently working with **Flask**, **Node.js**, and **Angular**
-- ⚙️ Learning more about **software architecture**, **DevOps**, and **API design**
-- 📚 Always improving my skills in **SQL performance** and **system design**
-- 📫 Reach me at: [alujano@fivesconsulting.com](mailto:alujano@fivesconsulting.com)
+- 🧠 Currently working with **Flask**, **Node.js**, and **React**
+- ☁️ Learning and building solutions with **AWS** and **Oracle Cloud Infrastructure**
+- ⚙️ Exploring **software architecture**, **DevOps**, and **API design**
+- 📚 Constantly improving in **SQL performance** and **system design**
+- 📫 Reach me at: [aaronlujano15@gmail.com](mailto:aaronlujano15@gmail.com)
 
 ---
 
@@ -40,6 +41,12 @@ I love exploring new technologies, improving existing systems, and solving probl
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1E1E1E?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-1E1E1E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-1E1E1E?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
