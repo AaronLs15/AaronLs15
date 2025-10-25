@@ -1,61 +1,61 @@
-<h1 align="center">👋 Hi, I'm Aaron Lujano</h1>
+<h1 align="center">🖤 Aaron Lujano</h1>
 
 <p align="center">
-🎓 Software Engineering student at the <b>University of Guadalajara</b><br>
-💻 Currently working as a <b>Full Stack Developer</b><br>
-🌱 Passionate about backend architecture, clean code, and modern web technologies
+  Software Engineering Student @ <b>University of Guadalajara</b><br>
+  Full Stack Developer | Backend Focused | Clean Architecture Enthusiast
 </p>
 
 ---
 
-### 🚀 About Me
-I'm a developer who enjoys building efficient, scalable, and visually appealing applications.  
-I love exploring new technologies, improving existing systems, and solving real-world problems through code.
+### 🧩 About Me
+I'm a passionate developer who enjoys building efficient, scalable systems and clean user experiences.  
+I love exploring new technologies, improving existing systems, and solving problems through elegant code.
 
-- 🔭 I’m currently focusing on **Flask**, **Node.js**, and **Angular**
-- 💡 I’m learning more about **software architecture** and **database optimization**
-- 📫 How to reach me: [alujano@fivesconsulting.com](mailto:alujano@fivesconsulting.com)
-- ⚡ Fun fact: I started programming by building small games in C++ 🎮
+- 🧠 Currently working with **Flask**, **Node.js**, and **Angular**
+- ⚙️ Learning more about **software architecture**, **DevOps**, and **API design**
+- 📚 Always improving my skills in **SQL performance** and **system design**
+- 📫 Reach me at: [alujano@fivesconsulting.com](mailto:alujano@fivesconsulting.com)
 
 ---
 
 ### 💻 Tech Stack
 
 #### 🧠 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1E1E1E?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🌐 Frameworks & Libraries
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+#### 🧱 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-1E1E1E?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1E1E1E?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1E1E1E?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Oracle](https://img.shields.io/badge/Oracle-1E1E1E?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLs15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLs15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/AaronLs15" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aaron-lujano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AaronLs15" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aaron-lujano-10233226b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 </p>
 
----
 
-
+<!-- Crafted with precision and caffeine ☕ -->
