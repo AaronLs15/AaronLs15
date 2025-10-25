@@ -1,6 +1,6 @@
-<h1 align="center">🖤 Aaron Lujano</h1>
+<h1 > Aaron Lujano</h1>
 
-<p align="center">
+<p >
   Software Engineering Student @ <b>University of Guadalajara</b><br>
   Full Stack Developer | Backend Focused | Clean Architecture Enthusiast
 </p>
@@ -40,7 +40,6 @@ I love exploring new technologies, improving existing systems, and solving probl
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1E1E1E?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Oracle](https://img.shields.io/badge/Oracle-1E1E1E?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ---
 
