@@ -11,7 +11,7 @@
 I'm a passionate developer who enjoys building efficient, scalable systems and clean user experiences.  
 I love exploring new technologies, improving existing systems, and solving problems through elegant code.
 
-- 🧠 Currently working with **Flask**, **Node.js**, and **React**
+- 🧠 Currently working with **Flask**, **Node.js**, **Python** , **SQL** and **React**
 - ☁️ Learning and building solutions with **AWS** and **Oracle Cloud Infrastructure**
 - ⚙️ Exploring **software architecture**, **DevOps**, and **API design**
 - 📚 Constantly improving in **SQL performance** and **system design**
