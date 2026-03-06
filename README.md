@@ -1,7 +1,6 @@
 <h1>Aaron Lujano</h1>
 
 <p>
-  Software Engineering Student @<b>University of Guadalajara</b><br>
   Full Stack Developer | Backend Focused | Clean Architecture Enthusiast
 </p>
 
@@ -22,17 +21,14 @@ I love exploring new technologies, improving existing systems, and solving probl
 ### 💻 Tech Stack
 
 #### 🧠 Languages
-![C](https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go&logoColor=00ADD8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-1E1E1E?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=%233776AB)
 
 #### 🧱 Frameworks & Libraries
-![Angular](https://img.shields.io/badge/Angular-1E1E1E?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
