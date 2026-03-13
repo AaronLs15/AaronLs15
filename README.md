@@ -14,7 +14,7 @@ I love exploring new technologies, improving existing systems, and solving probl
 - ☁️ Learning and building solutions with **AWS** and **Oracle Cloud Infrastructure**
 - ⚙️ Exploring **software architecture**, **DevOps**, and **API design**
 - 📚 Constantly improving in **SQL performance** and **system design**
-- 📫 Reach me at: [aaronlujano15@gmail.com](mailto:bots.dev15@gmail.com)
+- 📫 Reach me at: [bots.dev15@gmail.com](mailto:bots.dev15@gmail.com)
 
 ---
 
